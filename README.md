@@ -80,6 +80,9 @@ El sistema permite la recepción de eventos desde dispositivos o sensores, el pr
 | 📘 [Tienda de Libros – Scala](https://github.com/yuzabeth/tienda_de_libros_scala) | Reimplementación del sistema de gestión de libros explorando programación funcional en Scala. | Scala |
 ---
 
+## 📂 Repositorios
+
+[![GitHub](https://img.shields.io/badge/GitHub-yuzabeth-E6E6FA?style=for-the-badge&logo=github&logoColor=4B4B4B)](https://github.com/yuzabeth?tab=repositories)
 ## 📊 GitHub Stats
 
 <div align="center">
