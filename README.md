@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hola, soy Kelly Macas 👩‍💻🌻
+# Hola, soy Yuzabeth Macas 👩‍💻🌻
 
 **Desarrolladora Full Stack Junior · Estudiante de noveno ciclo de Ingeniería en Ciencias de la Computación**  
 📍 Cuenca, Ecuador · 🎓 Universidad de Cuenca
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuzabeth%20Macas-B8E0FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuzabethmacas)
-[![GitHub](https://img.shields.io/badge/GitHub-yuzabeth-E6E6FA?style=for-the-badge&logo=github&logoColor=4B4B4B)](https://github.com/yuzabeth)
+[![GitHub](https://img.shields.io/badge/GitHub-yuzabethmacas-E6E6FA?style=for-the-badge&logo=github&logoColor=4B4B4B)](https://github.com/yuzabethmacas)
 [![Email](https://img.shields.io/badge/Email-yuzabeth99@gmail.com-F6C1CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuzabeth99@gmail.com)
 
 </div>
@@ -16,7 +16,7 @@
 ## 🌻 Sobre mí
 
 Me encanta construir software que la gente usa de verdad. ✨  
-Durante mi pasantía en la **Fundación Jardín Azuayo** desarrollé varios módulos de un sistema de gestión de créditos educativos que hoy usa el equipo de la Fundación, y publiqué su portal web institucional. 🚀
+Durante mi pasantía en la **Fundación Jardín Azuayo** desarrollé, de punta a punta, los módulos financieros de un sistema de gestión de créditos educativos que hoy usa el equipo de la Fundación, y publiqué su portal web institucional. 🚀
 
 - 🔭 **Ahora mismo:** cerrando la carrera y buscando mi primer rol como desarrolladora
 - 🌱 **Aprendiendo:** SQL avanzado, visualización de datos con Power BI y Web Dev Master (Udemy)
@@ -39,6 +39,13 @@ Durante mi pasantía en la **Fundación Jardín Azuayo** desarrollé varios mód
 
 - ✅ Control de calidad y validación de datos para el seguimiento de proyectos
 - 🖥️ Página web informativa para la gestión interna del equipo
+
+---
+
+## 🐍 Comunidad
+
+- 👩‍🏫 **Tutora** en **Django Girls Cuenca 2026**: acompañé a nuevas participantes a construir su primera app web con Python y Django
+- 🎓 **Participante** en **Django Girls Cuenca 2025**: ahí empezó todo 💛
 
 ---
 
